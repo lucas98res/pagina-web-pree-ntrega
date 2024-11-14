@@ -1,0 +1,1 @@
+En el archivo index deja una constancia de la estructura basica relacionada la informacion presente en la pagina de clases particulares propuesta. es fundamental detallar siempre los ligantes y el objetivo principal de la pagina que es formar una red integral de conocimiento, como tambien complementarla con informacion promocional para la sustentacion de la misma.

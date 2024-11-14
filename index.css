@@ -1,0 +1,157 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(191, 179, 161, 0.681);
+}
+
+header {
+    text-align: center;
+    text-shadow: 3px;
+    color: rgb(93, 97, 97);
+    font-weight: 70vw;
+}
+
+.selectores {
+    font-size: large;
+    padding: 2vw;
+    text-align: center;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 10vw;
+
+}
+
+#comentario_inicial {
+    padding: 3vw;
+    text-align: center;
+}
+
+#comentario_fund {
+    padding-inline: 1vw;
+    text-align: center;
+}
+
+#productos {
+    padding: 1vw;
+    text-align: center;
+}
+
+#servicios {
+    text-align: center;
+}
+
+#tabla_1 {
+    padding: 2vw;
+    display: table;
+    margin: auto;
+}
+
+#tabla_2 {
+    padding: 2vw;
+    display: table;
+    margin: auto;
+}
+
+body {
+    text-align: justify;
+}
+
+
+#comentarios {
+    padding: 20px;
+}
+
+
+.direcciones {
+    padding: 1vw;
+}
+
+#contacto {
+    text-align: center;
+}
+
+.datos {
+    padding: 1vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#correo {
+    padding: 2vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 10vw;
+}
+
+footer {
+    padding: 1vw;
+}
+
+#anuncio_docente {
+    text-align: center;
+    font-size: auto;
+
+}
+
+.datos {
+    display: flex;
+    padding: 2vw;
+    justify-content: center;
+}
+
+.aportes {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedor_formulario {
+    padding: 1vw;
+}
+
+.formulario {
+    list-style-type: none;
+    padding: 1vw;
+}
+
+.boton_enviar {
+    text-align: center;
+    font-size: medium;
+    padding: 6px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+aside {
+    padding: 1vw;
+}
+
+#referencias {
+    text-align: center;
+}
+
+.comentarios_clientes {
+    border-style: dashed;
+    border-color: cadetblue;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+#comentario_1 {
+    padding-bottom: 10px;
+}
+
+#comentario_2 {
+    padding-bottom: 10px;
+}
+
+#comentario_3 {
+    padding-bottom: 10px;
+}
